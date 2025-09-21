@@ -39,3 +39,6 @@ header > .max-width-wrapper {
 strong {
   color: rgba(0, 153, 102, 1);
 }
+.intro-chunk > p {
+  max-width: 320px;
+}
